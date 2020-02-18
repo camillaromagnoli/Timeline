@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Timeline/static/css/main.c77e4f6f.chunk.css",
+    "main.js": "/Timeline/static/js/main.b4e134c2.chunk.js",
+    "main.js.map": "/Timeline/static/js/main.b4e134c2.chunk.js.map",
+    "runtime-main.js": "/Timeline/static/js/runtime-main.47a507cd.js",
+    "runtime-main.js.map": "/Timeline/static/js/runtime-main.47a507cd.js.map",
+    "static/js/2.faaf8bfc.chunk.js": "/Timeline/static/js/2.faaf8bfc.chunk.js",
+    "static/js/2.faaf8bfc.chunk.js.map": "/Timeline/static/js/2.faaf8bfc.chunk.js.map",
+    "index.html": "/Timeline/index.html",
+    "precache-manifest.e7f5a905b04a586f757f46c21c6e4d1a.js": "/Timeline/precache-manifest.e7f5a905b04a586f757f46c21c6e4d1a.js",
+    "service-worker.js": "/Timeline/service-worker.js",
+    "static/css/main.c77e4f6f.chunk.css.map": "/Timeline/static/css/main.c77e4f6f.chunk.css.map",
+    "static/js/2.faaf8bfc.chunk.js.LICENSE.txt": "/Timeline/static/js/2.faaf8bfc.chunk.js.LICENSE.txt",
+    "static/media/calendar.svg": "/Timeline/static/media/calendar.1082d5d5.svg",
+    "static/media/check.svg": "/Timeline/static/media/check.c4e0b8fe.svg",
+    "static/media/clock.svg": "/Timeline/static/media/clock.4b0f830c.svg",
+    "static/media/money.svg": "/Timeline/static/media/money.5b362d7b.svg",
+    "static/media/place.svg": "/Timeline/static/media/place.d546ec00.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47a507cd.js",
+    "static/js/2.faaf8bfc.chunk.js",
+    "static/css/main.c77e4f6f.chunk.css",
+    "static/js/main.b4e134c2.chunk.js"
+  ]
+}
