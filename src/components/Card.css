@@ -1,0 +1,36 @@
+
+.Card-title {
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+  }
+.Card-title.main-title:before {
+  position: absolute;
+  left: -15px;
+  top: 4px;
+  display: block;
+  content: "";
+  width: 12px;
+  height: 12px;
+  background:white;
+  transform: rotate(45deg);
+}
+.Card-icon{
+    height: 16px;
+    width: 16px;
+    padding: 0px 10px;
+}
+.Card-type-title{
+  font-weight: 500;
+  padding: 0px 10px
+}
+.Card-type{
+  display: flex;
+  flex-direction: column;
+}
+.Card-type-item{
+  padding: 0px 10px
+}

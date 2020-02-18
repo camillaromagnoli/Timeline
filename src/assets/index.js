@@ -1,0 +1,5 @@
+export {default as check}  from './check.svg'
+export {default as clock} from './clock.svg'
+export {default as calendar} from './calendar.svg' 
+export {default as money} from './money.svg'
+export {default as place} from './place.svg'
